@@ -1,5 +1,5 @@
 # Stonesteel's homepage
-A ABOUT Me and studying programming
+ABOUT ME and note for studying programming
 
 
 
