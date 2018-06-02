@@ -1,9 +1,9 @@
-#Stonesteel's homepage
-ABOUT Me and studying programming
+# Stonesteel's homepage
+A ABOUT Me and studying programming
 
 
 
 
-# jekyll-ttskch-theme
+## jekyll-ttskch-theme
 A simple and customizable theme for Jekyll.
 
